@@ -4,7 +4,7 @@
 I like to code different stuffs using JavaScript.
 Nice to meet you!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Izrael_vb?color=33a1bc&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/israelvera369?color=33a1bc&style=for-the-badge)
 
 ### 🔨 What I do
 
