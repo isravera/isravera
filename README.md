@@ -16,7 +16,7 @@ Nice to meet you!
 ---
 
 ### 📧 You can find me
-- [Twitter](https://twitter.com/Izrael_vb)
+- [Twitter](https://twitter.com/israelvera369)
 - [Facebook](https://www.facebook.com/izraelv)
 - [LinkedIn](https://www.linkedin.com/in/israel-vera)
 
