@@ -7,7 +7,6 @@ Nice to meet you!
 ### 🔨 What I do
 
 - 🏢 I’m currently working at [ZRH Code](https://zrh-code.com)
-- 📓 I’m currently learning to build apps using flutter.
 - ⚒️ Coding since 2018.
 - 💕 I also like to read and play computer games.
 
